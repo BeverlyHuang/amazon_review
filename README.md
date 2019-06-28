@@ -1,5 +1,7 @@
 # Amazon Product Review Analysis
 
+By Beverly Huang
+
 ### Preprocessing data
 * Stemming & Lemmatization
 * Removing Stopwords
